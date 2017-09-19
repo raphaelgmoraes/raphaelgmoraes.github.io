@@ -52,7 +52,7 @@
             "</div>",
             "",
             "<script>",
-            "    GitHubCalendar(\".calendar\", \"your-username\");",
+            "    GitHubCalendar(\".calendar\", \"raphaelgmoraes\");",
             "</script>"
           ]
         }
