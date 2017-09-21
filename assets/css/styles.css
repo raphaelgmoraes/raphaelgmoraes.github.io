@@ -1,6 +1,6 @@
 /*   
  * Template Name: Developer - Responsive Website Template for Developers
- * Version: 1.5
+ * Version: 1.0
  * Author: Xiaoying Riley
  * Twitter: @3rdwave_themes
  * License: Creative Commons Attribution 3.0 License
@@ -188,6 +188,12 @@ iframe {
 }
 /* About Section */
 /* Latest Section */
+.about-me li{
+  color: #54ba4e;
+  font-size: 22px;
+}
+
+
 .latest .item {
   margin-bottom: 30px;
 }
